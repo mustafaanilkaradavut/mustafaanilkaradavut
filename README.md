@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mustafaanilkaradavut&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaanilkaradavut&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mustafaanilkaradavut&theme=ayu-mirage&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mustafaanilkaradavut&icon=2&color=13)](https://visitcount.itsvg.in)
 
