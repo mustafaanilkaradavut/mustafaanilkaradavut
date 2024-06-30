@@ -1,6 +1,3 @@
-
-<!-- Removing Welcome to my page line -->
-
 <div align="center">
   <h1> I'm Anil, Frontend developer from Ankara / Turkey, <br>
     Currently living in Dublin / Ireland 🇮🇪</h1>
@@ -55,8 +52,12 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mustafaanilkaradavut&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaanilkaradavut&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;"> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaanilkaradavut&theme=bear&hide_border=false" alt="GitHub Streak Stats" style="margin-bottom: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaanilkaradavut&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mustafaanilkaradavut&icon=2&color=13)](https://visitcount.itsvg.in)
