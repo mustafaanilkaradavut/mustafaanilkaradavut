@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <h1> I'm Anil, Frontend developer from Ankara / Turkey, <br>
     Currently living in Dublin / Ireland 🇮🇪</h1>
@@ -78,4 +79,4 @@
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
