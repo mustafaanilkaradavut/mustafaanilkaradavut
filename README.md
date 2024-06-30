@@ -18,12 +18,22 @@
 
 🔭 I’m currently working on frontend development | JavaScript - React<br>🏢 Looking to collaborate on innovative projects where I can leverage my expertise in React and modern JavaScript frameworks to create scalable, user-focused solutions. Particularly interested in startups and tech companies aiming to revolutionise user interactions and experiences on digital platforms.<br>🌱 I’m currently learning : Node JS<br>💬 Ask me about : You can ask me anything you want to know.<br>⚡ Fun Fact : I enjoy traveling, trying new cuisines, and practicing judo.
 
+<br><br><br><br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anil.karadavut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafaanilkaradavut) 
+<h2 align="center">🌐 Socials</h2>
 
+<p align="center">
+  <a href="https://instagram.com/anil.karadavut">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30"/>
+  </a>
+  <a href="https://linkedin.com/in/mustafaanilkaradavut">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
+<br><br>
+
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -51,15 +61,21 @@
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
 </div>
 
-# 📊 GitHub Stats:
+<br><br>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;"> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaanilkaradavut&theme=bear&hide_border=false" alt="GitHub Streak Stats" style="margin-bottom: 20px;"/>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaanilkaradavut&theme=bear&hide_border=false" alt="GitHub Streak Stats" style="margin-bottom: 40px;"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaanilkaradavut&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mustafaanilkaradavut&icon=2&color=13)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mustafaanilkaradavut&icon=2&color=13" alt="Visit Count"/>
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
