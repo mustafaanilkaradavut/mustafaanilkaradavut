@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👱‍♂️ Welcome to my page !<br><br>▶︎ I'm Anil, Fullstack developer from Ankara / Turkey, currently living in Dublin / Ireland 🇮🇪.<br><br>🔭 I’m currently working on frontend development | JavaScript - React<br>🏢 Looking to collaborate on innovative projects where I can leverage my expertise in React and modern JavaScript frameworks to create scalable, user-focused solutions. Particularly interested in startups and tech companies aiming to revolutionise user interactions and experiences on digital platforms.<br>🌱 I’m currently learning : Node JS<br>💬 Ask me about : You can ask me anything you want to know.<br>⚡ Fun Fact : I enjoy traveling, trying new cuisines, and practicing judo.
 
 
