@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
-  <h1> I'm Anil, Frontend developer from Ankara / Turkey, <br>
+  <h1> Hi ! I'm Anil, Frontend developer from Ankara / Turkey, <br>
     Currently living in Dublin / Ireland 🇮🇪</h1>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65"/>
